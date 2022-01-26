@@ -22,9 +22,5 @@ Here are some ideas to get you started:
 
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun6ik&layout=compact&theme=gruvbox)
-  
-  
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun6ik&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun6ik&layout=compact&theme=gruvbox) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun6ik&show_icons=true&theme=gruvbox)
 
